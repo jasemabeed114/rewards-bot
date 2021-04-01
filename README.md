@@ -1,6 +1,6 @@
 # bing-rewards-bot
-🐍 Python bot for rewards bot by Passivebot
+🐍 Bing Rewards bot by Passivebot
 
-💰💯 Earn Microsft Rewards points automatically
+💰💯 Automatically earn Microsft Rewards points
 
 📖 Learn more: www.passivebot.com/rewards-bot
