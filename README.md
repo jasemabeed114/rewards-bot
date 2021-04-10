@@ -1,4 +1,4 @@
-# bing-rewards-bot
+# Microsoft (Bing-Rewards) Rewards-bot
 🐍 Bing Rewards bot by Passivebot
 
 💰💯 Automatically earn Microsft Rewards points
